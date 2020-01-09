@@ -1,0 +1,8 @@
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.deps.json
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.pdb
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.AssemblyInfo.cs
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Entitys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.pdb

@@ -1,0 +1,12 @@
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.deps.json
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.pdb
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.pdb
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.csprojAssemblyReference.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.AssemblyInfo.cs
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.csproj.CopyComplete
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Repositorys\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.pdb

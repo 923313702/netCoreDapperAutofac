@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.deps.json
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.pdb
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Repositorys.pdb
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\bin\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Entitys.pdb
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.csprojAssemblyReference.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.AssemblyInfo.cs
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.csproj.CopyComplete
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.dll
+c:\users\admin\source\repos\NetCoreDapperAutoFac\NetCoreDapperAutoFac.Services\obj\Debug\netcoreapp2.1\NetCoreDapperAutoFac.Services.pdb
